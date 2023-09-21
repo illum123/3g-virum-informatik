@@ -1,0 +1,83 @@
+/* Add this CSS code in a separate CSS file or within a <style> tag in the HTML file */
+
+/* Center everything */
+
+body {
+    background-image: url('https://img.freepik.com/free-vector/cute-teddy-bear-waving-hand-cartoon-icon-illustration_138676-2714.jpg?w=2000');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0 auto;
+    max-width: 800px; /* Adjust the max-width to your preference */
+    padding: 20px;
+    text-align: center;
+  }
+
+  
+  /* Style the navigation links */
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  /* Style the page title */
+  h1 {
+    font-size: 28px;
+    margin: 20px 0;
+    color: #007bff; /* Blue color for the title */
+  }
+  
+  /* Style the section headers */
+  h2 {
+    font-size: 24px;
+    margin-top: 20px;
+    color: #28a745; /* Green color for section headers */
+  }
+  
+  /* Style the section sub-headers */
+  h3 {
+    font-size: 20px;
+    margin-top: 15px;
+    color: #dc3545; /* Red color for sub-headers */
+  }
+  
+  /* Style paragraphs and lists */
+  p {
+    margin-bottom: 10px;
+  }
+  
+  ul, ol {
+    margin-left: 20px;
+  }
+  
+  /* Style links */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Style images and videos */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  video {
+    max-width: 100%;
+  }
+  
+  /* Add some spacing between sections */
+  div {
+    margin-bottom: 40px;
+  }
+  
